@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/felipe-schmidt-de-paula-751a48179/">
   <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:fschmidtdepaula@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/orbytelabs">
