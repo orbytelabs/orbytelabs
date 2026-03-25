@@ -95,9 +95,7 @@ Experiência na criação de sistemas completos (ERP), automação de processos 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=orbytelabs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=300" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orbytelabs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=300" />
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=orbytelabs&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+<br>
 
 </div>
 
