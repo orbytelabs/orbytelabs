@@ -38,7 +38,7 @@ Líder técnico com foco em construção de sistemas escaláveis, automação de
 <h2>🛠️ Stack</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,react,vuejs,bootstrap,python,docker,git"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,react,reactnative,vuejs,css,bootstrap,python,docker,git,arduino,aws,azure,c,cpp,"/>
 </p>
 
 ---
