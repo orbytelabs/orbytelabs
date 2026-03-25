@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Felipe%20Schmidt&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech%20Leader%20%7C%20Software%20Architecture%20%7C%20Automation%20%7C%20ERP&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Felipe%20Schmidt&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CTO%20%7C%20Software%20Architecture%20%7C%20Automation%20%7C%20ERP&descAlignY=58&descSize=18"/>
 
 <br>
 
@@ -16,7 +16,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&center=true&vCenter=true&width=900&lines=L%C3%ADder+t%C3%A9cnico+com+vis%C3%A3o+de+neg%C3%B3cio;Arquitetura+de+sistemas+e+automa%C3%A7%C3%A3o;Laravel%2C+ERP%2C+integra%C3%A7%C3%B5es+e+dashboards;Tecnologia+orientada+a+resultado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&center=true&vCenter=true&width=900&lines=Estruturando+tecnologia+para+escala+e+efici%C3%AAncia;Arquitetura+de+sistemas+e+ERP;Automatiza%C3%A7%C3%A3o+de+processos+e+integra%C3%A7%C3%B5es;Tecnologia+orientada+a+resultado" />
 
 </div>
 
@@ -24,9 +24,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Líder técnico com foco em construção de sistemas escaláveis, automação de processos e integração entre tecnologia e negócio.
+Atuo na liderança e estruturação de tecnologia com foco em transformar sistemas em **ativos estratégicos para o negócio**.
 
-Atuo na interseção entre **gestão, arquitetura e execução**, estruturando soluções que aumentam eficiência operacional, reduzem retrabalho e dão suporte à tomada de decisão.
+Minha atuação está na interseção entre **arquitetura, operação e gestão**, construindo soluções que aumentam eficiência, reduzem custos operacionais e dão suporte à tomada de decisão.
+
+Experiência na criação de sistemas completos (ERP), automação de processos e integração entre plataformas, sempre alinhando tecnologia à realidade da operação.
 
 ---
 
@@ -34,52 +36,51 @@ Atuo na interseção entre **gestão, arquitetura e execução**, estruturando s
 
 <table>
   <tr>
-    <td>💼 <b>Liderança técnica e gestão de TI</b></td>
+    <td>💼 <b>Liderança de Tecnologia e Estruturação de TI</b></td>
+    <td>🏗️ <b>Arquitetura de Sistemas e ERP</b></td>
+  </tr>
+  <tr>
+    <td>🤖 <b>Automação de Processos e Escala Operacional</b></td>
+    <td>🔌 <b>Integração de Sistemas e APIs</b></td>
+  </tr>
+  <tr>
+    <td>📊 <b>Dados, Dashboards e Suporte à Decisão</b></td>
     <td>⚙️ <b>Backend com Laravel e PHP</b></td>
-  </tr>
-  <tr>
-    <td>🏗️ <b>Arquitetura de sistemas e ERP</b></td>
-    <td>🤖 <b>Automação de processos e RPA</b></td>
-  </tr>
-  <tr>
-    <td>🔌 <b>Integrações com APIs e serviços externos</b></td>
-    <td>📊 <b>Dashboards e indicadores de negócio</b></td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack (visão técnica)
 
 <div align="center">
 
-### Backend, Frontend e Infra
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,react,vue,html,css,bootstrap,python,docker,git,aws,azure,gcp,cpp,c,arduino&perline=9" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,react,vue,html,css,bootstrap,python,docker,git,aws,azure,gcp&perline=8" />
 
 </div>
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 O que eu construo
 
 <table>
   <tr>
     <td width="33%">
-      <h3>🧾 ERP de Gestão</h3>
+      <h3>🧾 Sistemas de Gestão (ERP)</h3>
       <p>
-        Sistema multiempresa com controle financeiro, permissões, módulos administrativos, integrações e regras de negócio voltadas para operação real.
+        Plataformas completas para controle financeiro, operacional e administrativo, com regras de negócio estruturadas e visão multiempresa.
       </p>
     </td>
     <td width="33%">
-      <h3>🤖 Automação de Processos</h3>
+      <h3>🤖 Automação e Eficiência</h3>
       <p>
-        Robôs e fluxos automatizados para reduzir tarefas manuais, ganhar escala e padronizar execuções operacionais.
+        Redução de processos manuais através de automações e integrações, aumentando escala e padronização operacional.
       </p>
     </td>
     <td width="33%">
-      <h3>📊 Dashboards Estratégicos</h3>
+      <h3>📊 Inteligência Operacional</h3>
       <p>
-        Painéis com indicadores financeiros, operacionais e gerenciais para apoiar decisão com mais velocidade e clareza.
+        Dashboards e indicadores que transformam dados em suporte real para tomada de decisão.
       </p>
     </td>
   </tr>
@@ -91,34 +92,30 @@ Atuo na interseção entre **gestão, arquitetura e execução**, estruturando s
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=orbytelabs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orbytelabs&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=orbytelabs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=300" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orbytelabs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=300" />
 
 <br><br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=orbytelabs&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=orbytelabs&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 
 </div>
 
 ---
 
-## 🚀 O que eu construo
+## 🚀 Impacto gerado
 
-- Sistemas de gestão com regras complexas de negócio
-- Estruturas multiempresa com controle de acesso e permissões
-- Integrações entre plataformas e APIs terceiras
-- Automação de processos internos
-- Ferramentas para acompanhamento financeiro e operacional
-- Soluções orientadas a escala, governança e eficiência
+- Estruturação de sistemas para suporte à operação empresarial  
+- Redução de retrabalho através de automação de processos  
+- Centralização de dados e melhoria na visibilidade operacional  
+- Criação de base tecnológica para crescimento e escala  
 
 ---
 
-## 🧠 Filosofia de trabalho
+## 🧠 Filosofia
 
 > Tecnologia não é fim — é meio.  
-> Solução boa é a que funciona na operação, escala com consistência e gera resultado mensurável.
+> Soluções precisam funcionar na operação, escalar com consistência e gerar resultado mensurável.
 
 ---
 
