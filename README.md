@@ -96,7 +96,9 @@ Atuo na interseção entre **gestão, arquitetura e execução**, estruturando s
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=orbytelabs&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=orbytelabs&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</div>
 
 </div>
 
