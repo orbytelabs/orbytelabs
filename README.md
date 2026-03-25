@@ -112,7 +112,7 @@ Experiência na criação de sistemas completos (ERP), automação de processos 
 
 ## 🧠 Filosofia
 
-> Tecnologia não é fim — é meio.  
+> Tecnologia não é fim, é meio.  
 > Soluções precisam funcionar na operação, escalar com consistência e gerar resultado mensurável.
 
 ---
