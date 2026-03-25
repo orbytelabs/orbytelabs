@@ -66,8 +66,8 @@ Visualização de indicadores com foco em decisão estratégica.
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=dark"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=orbytelabs&show_icons=true&theme=dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orbytelabs&layout=compact&theme=dark"/>
 
 </div>
 
