@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="LINK_LINKEDIN">
+<a href="[LINK_LINKEDIN](https://www.linkedin.com/in/felipe-schmidt-de-paula-751a48179/)">
   <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:SEU_EMAIL">
